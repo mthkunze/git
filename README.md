@@ -9,3 +9,6 @@ Set global Develeper Git Environment
 - User
 - Email
 - Core Editor
+
+* Add Brunch Tree *
+
