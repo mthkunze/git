@@ -10,5 +10,7 @@ Set global Develeper Git Environment
 - Email
 - Core Editor
 
-* Add Brunch Tree *
+=======
+ README
 
+* Add Feature Branch View * 
