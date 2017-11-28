@@ -6,7 +6,6 @@ Set global Develeper Git Environment
 
 # Variables
 
--
-User
-Email
-Core Editor
+- User
+- Email
+- Core Editor
