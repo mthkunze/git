@@ -9,3 +9,7 @@ Set global Develeper Git Environment
 - User
 - Email
 - Core Editor
+
+ README
+
+* Add Feature Branch View * 
