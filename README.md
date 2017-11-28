@@ -10,7 +10,7 @@ Set global Develeper Git Environment
 - Email
 - Core Editor
 
-=======
- README
+README
+==============
 
-* Add Feature Branch View * 
+*Add Feature Branch View*
